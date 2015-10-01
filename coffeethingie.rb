@@ -12,7 +12,6 @@ end
 
 get '/images' do
  # http://www.sinatrarb.com/intro.html#Sending%20Files
-  send_file 'poe.jpg'
 end
 
 
